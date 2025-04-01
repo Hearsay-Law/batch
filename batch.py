@@ -1,3 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                             ┃
+┃                                  BATCH                                      ┃
+┃                                                                             ┃
+┃            A command-line utility for batch downloading files               ┃
+┃                                                                             ┃
+┃                        Created by Hearsay-Law                               ┃
+┃                   https://github.com/Hearsay-Law/batch                      ┃
+┃                                                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+"""
 import os
 import requests
 import time
